@@ -16,4 +16,4 @@ The user must have a C++ Compiler to run the Prototype
 
 ## Revision Logs
 
-..* Pushed the Initial Prototype of the project.
+* Pushed the Initial Prototype of the project.
